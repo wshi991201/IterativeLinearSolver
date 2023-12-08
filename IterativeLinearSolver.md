@@ -1,6 +1,6 @@
 ---
 Name: Wangzhuo Shi
-Topic: 40
+Topic: [40.md]
 Title: What are Iterative linear solvers and where do they apply?
 ----
 # IterativeLinearSolver
